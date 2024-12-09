@@ -12,7 +12,7 @@ Contributors are [welcome](https://github.com/CdTgr/vue3-q-tel-input/graphs/cont
 
 > Recommended to upgrade to v2.
 
-For v1 documenation please refer [here](./docs/v1.md)
+For v1 documentation please refer [here](./docs/v1.md)
 
 #### Installation
 
